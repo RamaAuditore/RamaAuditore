@@ -13,24 +13,21 @@
 - ⚡ Me especializo en frontend con **React**, aunque también tengo conocimientos sólidos en backend con **Node.js**.
 - 🧰 Manejo tecnologías como **JavaScript, Vite, Bootstrap, Tailwind CSS, Express y MySQL**.
 - 🔐 También tengo experiencia en implementación de servidores (Ubuntu Server + NGINX) y certificados SSL.
-- 👟 Fundé el proyecto **Levitando Sneakers Store**, una tienda de zapatillas customizadas inspiradas en la cultura pop.
 - 🧑‍🎓 Me formé en Educación IT y Codo a Codo, y sigo aprendiendo constantemente.
 
 ---
 
 ### 🚀 Proyectos destacados
 
-- 🛍 [Levitando Sneakers Store](https://github.com/RamaAuditore/levitando-store)  
-  E-commerce de zapatillas personalizadas con React, Vite, Node.js y Mercado Pago.
+- 🛍 [Morse Learning](https://morselearning.netlify.app/)  
+  Aplicación interactiva para aprender a leer y escribir en código Morse. Hecha con **React**, incluye sonido, traducción en tiempo real y ejemplos prácticos.
 
-- 💅 [Sistema de Turnos Manicuría](https://github.com/RamaAuditore/nailapp)  
-  App web para reservar turnos, con React, Material UI y backend Express + SQL Server.
 
-- 🏥 [App para Obra Social - Varbinder](https://github.com/RamaAuditore)  
+- 🏥 [App para Obra Social - Varbinder](https://www.youtube.com/playlist?list=PLeEdXPhJaeCOEnrpBy8gXowfXX6lIIhCz)  
   Frontend React para gestión de clientes y facturación, usada por empleados del sindicato del vidrio.
 
-- 🧦 [Web para fábrica de medias (Batata Agencia)](https://github.com/RamaAuditore)  
-  Sitio corporativo con React, TypeScript y Tailwind CSS.
+- 🧦 [Web para fábrica de medias (Batata Agencia)](https://klalutex.com.ar/)  
+  Landing page corporativa desarrollada con React, TypeScript y Tailwind CSS para una fábrica de medias. Diseño responsive, navegación fluida y adaptación a la identidad visual de la marca.
 
 ---
 
