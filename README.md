@@ -62,8 +62,8 @@
 
 ### 📫 Contacto
 
-- 📧 ramirodev@gmail.com
-- 💼 [LinkedIn](https://www.linkedin.com/in/ramiro-baqueiro)
+- 📧 baqueiroramironahuel@gmail.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/ramiro-nahuel-baqueiro/)
 
 ---
 
