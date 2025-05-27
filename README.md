@@ -26,7 +26,7 @@
 - 🏥 [App para Obra Social - Varbinder](https://www.youtube.com/playlist?list=PLeEdXPhJaeCOEnrpBy8gXowfXX6lIIhCz)  
   Frontend React para gestión de clientes y facturación, usada por empleados del sindicato del vidrio.
 
-- 🧦 [Web para fábrica de medias (Batata Agencia)](https://klalutex.com.ar/)  
+- 🧦 [Sitio web para Klalutex - Batata Agencia Digital](https://klalutex.com.ar/)  
   Landing page corporativa desarrollada con React, TypeScript y Tailwind CSS para una fábrica de medias. Diseño responsive, navegación fluida y adaptación a la identidad visual de la marca.
 
 ---
